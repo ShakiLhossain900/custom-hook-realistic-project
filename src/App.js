@@ -1,4 +1,4 @@
-//to adding the database connection logic in this project also
+//to adding the database connection logic in this project also and using own custom hook in the project
 import React, { useEffect, useState } from 'react';
 
 import Tasks from './components/Tasks/Tasks';
