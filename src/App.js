@@ -1,3 +1,4 @@
+//to adding the database connection logic in this project also
 import React, { useEffect, useState } from 'react';
 
 import Tasks from './components/Tasks/Tasks';
