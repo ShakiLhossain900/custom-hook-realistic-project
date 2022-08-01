@@ -1,7 +1,8 @@
 //if future need react custom hooks moore complex logic and custom hooks
 //than i need to see one more time the video that's why i dont want to
 //spend my time here so i am going to drive for next core section
-
+//and jodi complex data connection and logic thake ai custom hooks
+//complex shikte hobe
 
 
 //to adding the database connection logic in this project also and using own custom hook in the project
